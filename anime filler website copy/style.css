@@ -1,0 +1,70 @@
+.zebra{
+    background-color: orange;
+    color: white;
+    height: 900px;
+  }
+  button{
+    background-color: orange;
+    color: white;
+    margin: 30px 30px 30px 30px;
+    font-size: 40px;
+    padding: 20px 20px 20px 20px;
+  }
+  .two{
+    font-size: 30px;
+  }
+  
+  .one, .two{
+    text-align: center;
+  }
+  
+  #one{
+    font-size: 70px;
+    
+  }
+  #two{
+    font-size: 40px;
+  }
+  
+  .three{
+    font-weight: bold;
+    font-size: 40px;
+    font-style: italic;
+    font-family: sans-serif;
+    
+  }
+  .four{
+    color: gray;
+    text-align: center;
+    background-color: white;
+  }
+  
+  #game{
+    font-size: 40px;
+  }
+  #gameover{
+    font-size: 70px;
+    font-weight: bold;
+  }
+  h6{
+    text-align: center;
+    color: black;
+    font-size: 60px;
+  }
+  .gamestart{
+    color: gray;
+   text-align: center;
+   font-size: 40px;
+  }
+  a{
+    color: gray;
+  }
+  img{
+    width: 41%;
+    margin-top: 20px;
+    margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 40px;
+  }
+  
+  
